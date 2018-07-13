@@ -1,6 +1,6 @@
 # Clients
 To test:
-  Download the file called "access_clients.py".
+  Download the repository to a folder called "Clients".
   
   In the terminal, navigate to the directory containing the folder with "access_clients.py", "requirements.txt", and "Dockerfile".</break>
   
