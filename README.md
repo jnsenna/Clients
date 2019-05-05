@@ -12,7 +12,7 @@ To test:
   
   To deploy to Kubernetes, run the commands <code>kubectl create -f Clients.deployment.yml</code> and <code>kubectl create -f Clients.service.yml</code>.</break>
   
-  To verify that the application is running, run the command <code>kubectl</code>.\n</break>
+  To verify that the application is running, run the command <code>kubectl</code>.</break>
   </break>
  
   Tutorials used: 
